@@ -1,0 +1,10 @@
+###########################################################
+# 							  #
+#							  #
+# Before you start, you need to set up some dependecies   #
+# 	Run xampp on your computer			  #
+# 	Create database with TKDB name in phpmyadmin      #
+# 	Must install tkinter package if you don't have it #						 #
+#							  #
+#							  #
+###########################################################
